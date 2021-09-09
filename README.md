@@ -10,4 +10,6 @@ main() {
   int c = 0;
   cin >> total = 0;
   
-  }
+ }
+
+'''
